@@ -79,4 +79,11 @@ Para activar el tema de inicio de sesión **Pixie**:
 3. Reinicia la sesión para aplicar todos los cambios.
 
 ---
+## 🤝 Créditos y Referencias
+Este proyecto no sería posible sin el trabajo de:
+- **[Athena](https://github.com/haikal-hakim/athena):** La base inicial para la configuración de Hyprland y la estructura del sistema.
+- **[Pixie SDDM](https://github.com/xCaptaiN09/pixie-sddm):** El increíble tema de inicio de sesión inspirado en Pixel UI.
+- **[CachyOS](https://cachyos.org/):** Por proporcionar una base de Arch Linux rápida y optimizada.
+
+---
 *Configurado con ❤️ por Gabriel (vctorgab)*
