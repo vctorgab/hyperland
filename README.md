@@ -12,9 +12,21 @@ Este repositorio contiene la configuración personalizada para un entorno Hyprla
 
 ---
 
-## 📦 1. Requisitos e Instalación
+## 📦 1. Instalación de la Base (Athena)
 
-Primero, instala todos los paquetes necesarios. CachyOS ya incluye la mayoría, pero asegúrate de tener estos:
+Para que todo se vea correctamente, primero debes instalar la base de **Athena**, que proporciona la estructura de Waybar, Rofi y el entorno general:
+
+```bash
+git clone https://github.com/haikal-hakim/athena.git
+cd athena
+# Sigue las instrucciones del repositorio de Athena para su instalación base
+```
+
+---
+
+## 📦 2. Requisitos Adicionales e Instalación
+
+Una vez tengas la base de Athena, instala los componentes adicionales que hemos personalizado:
 
 ### Paquetes del Repositorio (Pacman)
 ```bash
