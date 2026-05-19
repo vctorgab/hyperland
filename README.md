@@ -50,6 +50,7 @@ Para replicar esta configuración, copia los archivos a las siguientes rutas:
 | `dotfiles/hypr/hyprlock.conf` | `~/.config/hypr/hyprlock.conf` |
 | `dotfiles/wlogout/*` | `~/.config/wlogout/` |
 | `dotfiles/fish/config.fish` | `~/.config/fish/config.fish` |
+| `dotfiles/.config/waybar/modules/clock.jsonc` | `~/.config/waybar/modules/clock.jsonc` |
 | `scripts/rotate_wallpaper.sh` | `~/.local/bin/rotate_wallpaper.sh` |
 | `wallpapers/*.jpg` | `~/Downloads/` |
 
