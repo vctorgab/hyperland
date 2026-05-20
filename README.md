@@ -30,7 +30,7 @@ Una vez tengas la base de Athena, instala los componentes adicionales que hemos 
 
 ### Paquetes del Repositorio (Pacman)
 ```bash
-sudo pacman -S --noconfirm hyprlock wlogout wtype xdotool
+sudo pacman -S --noconfirm hyprlock wlogout wtype xdotool blueman network-manager-applet nwg-displays
 ```
 
 ### Paquetes del AUR (Paru/Yay)
@@ -47,6 +47,8 @@ Para replicar esta configuración, copia los archivos a las siguientes rutas:
 | Archivo en el Repo | Destino en el Sistema |
 | :--- | :--- |
 | `dotfiles/hypr/hyprland.conf` | `~/.config/hypr/hyprland.conf` |
+| `dotfiles/hypr/monitors.conf` | `~/.config/hypr/monitors.conf` |
+| `dotfiles/hypr/workspaces.conf` | `~/.config/hypr/workspaces.conf` |
 | `dotfiles/hypr/hyprlock.conf` | `~/.config/hypr/hyprlock.conf` |
 | `dotfiles/kitty/kitty.conf` | `~/.config/kitty/kitty.conf` |
 | `dotfiles/wlogout/*` | `~/.config/wlogout/` |
