@@ -1,0 +1,26 @@
+2026-05-22 08:04:52,606 - INFO - --- Iniciando Monitor Manager con Fail-Safe ---
+2026-05-22 08:04:52,611 - INFO - Cambio detectado: None -> ['DP-1']
+2026-05-22 08:04:52,612 - INFO - Configurando. Conectados: ['DP-1', 'eDP-1'], Externos: ['DP-1']
+2026-05-22 08:04:52,612 - INFO - Intentando activar monitor externo: DP-1
+2026-05-22 08:04:53,936 - INFO - Monitor externo DP-1 activado. Apagando interno.
+2026-05-22 08:06:54,001 - INFO - Cambio detectado: ['DP-1'] -> []
+2026-05-22 08:06:54,002 - INFO - Configurando. Conectados: ['eDP-1'], Externos: []
+2026-05-22 08:06:54,002 - INFO - No hay monitores externos. Activando interno.
+2026-05-22 08:07:12,015 - INFO - Cambio detectado: [] -> ['DP-1']
+2026-05-22 08:07:12,016 - INFO - Configurando. Conectados: ['DP-1', 'eDP-1'], Externos: ['DP-1']
+2026-05-22 08:07:12,016 - INFO - Intentando activar monitor externo: DP-1
+2026-05-22 08:07:13,021 - INFO - Monitor externo DP-1 activado. Apagando interno.
+2026-05-22 08:08:23,050 - INFO - Cambio detectado: ['DP-1'] -> []
+2026-05-22 08:08:23,051 - INFO - Configurando. Conectados: ['eDP-1'], Externos: []
+2026-05-22 08:08:23,051 - INFO - No hay monitores externos. Activando interno.
+2026-05-22 08:08:35,061 - INFO - Cambio detectado: [] -> ['DP-1']
+2026-05-22 08:08:35,061 - INFO - Configurando. Conectados: ['DP-1', 'eDP-1'], Externos: ['DP-1']
+2026-05-22 08:08:35,062 - INFO - Intentando activar monitor externo: DP-1
+2026-05-22 08:08:36,311 - INFO - Monitor externo DP-1 activado. Apagando interno.
+2026-05-22 08:09:02,323 - INFO - Cambio detectado: ['DP-1'] -> []
+2026-05-22 08:09:02,323 - INFO - Configurando. Conectados: ['eDP-1'], Externos: []
+2026-05-22 08:09:02,324 - INFO - No hay monitores externos. Activando interno.
+2026-05-22 08:09:34,335 - INFO - Cambio detectado: [] -> ['DP-1']
+2026-05-22 08:09:34,336 - INFO - Configurando. Conectados: ['DP-1', 'eDP-1'], Externos: ['DP-1']
+2026-05-22 08:09:34,336 - INFO - Intentando activar monitor externo: DP-1
+2026-05-22 08:09:35,356 - INFO - Monitor externo DP-1 activado. Apagando interno.
