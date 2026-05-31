@@ -1,0 +1,9 @@
+theme = "autumn"
+
+[keys.normal]
+y = "yank_main_selection_to_clipboard"
+p = "paste_clipboard_after"
+P = "paste_clipboard_before"
+
+[keys.select]
+y = "yank_main_selection_to_clipboard"
