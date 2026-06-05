@@ -1,9 +1,20 @@
+# Configuración del tema visual del editor
 theme = "autumn"
 
+# Atajos de teclado para el modo Normal
 [keys.normal]
-y = "yank_main_selection_to_clipboard"
-p = "paste_clipboard_after"
-P = "paste_clipboard_before"
+y = "yank_main_selection_to_clipboard" # Copia la selección principal al portapapeles
+p = "paste_clipboard_after"           # Pega el contenido del portapapeles después del cursor
+P = "paste_clipboard_before"          # Pega el contenido del portapapeles antes del cursor
 
+# Atajos de teclado para el modo Selección
 [keys.select]
-y = "yank_main_selection_to_clipboard"
+y = "yank_main_selection_to_clipboard" # Copia al portapapeles desde el modo visual/selección
+
+# Ajustes generales del editor
+[editor.soft-wrap]
+enable = true # Activa el ajuste visual de líneas largas para que no se salgan de la pantalla
+
+[editor.file-picker]
+hidden = true
+git-ignore = false

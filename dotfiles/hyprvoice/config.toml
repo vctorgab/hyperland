@@ -4,7 +4,7 @@
 
 # API Keys for providers
 [providers.openai]
-  api_key = "TU_API_KEY_AQUI"
+  api_key = ""
 
 # Audio Recording Configuration
 [recording]
@@ -20,7 +20,7 @@
 [transcription]
   provider = "openai"
   language = "es"
-  model = "whisper-large-v3"
+  model = "whisper-1"
   streaming = false
   threads = 0
 
